@@ -21,7 +21,7 @@
         <aside class="left-bar" id="leftBar">
             <div class="title">
 				<p>帅导航</p>
-				<a href="#"><img src="img/face.jpg" class="round_icon"  alt=""></a>
+				<a href="#"><img src="img/face.png" class="round_icon"  alt=""></a>
             </div>
 			
 			<!-- 侧边栏 -->
